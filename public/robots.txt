@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.brsenterprise.in/sitemap.xml
+# TODO: Update with the final production domain after deployment
+# Sitemap: https://www.brssolutionenterprises.com/sitemap.xml
